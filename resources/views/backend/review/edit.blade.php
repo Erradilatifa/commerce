@@ -9,10 +9,7 @@
     <form action="{{route('review.update',$review->id)}}" method="POST">
       @csrf
       @method('PATCH')
-      <div class="form-group">
-        <label for="name">Review By:</label>
-        <input type="text" disabled class="form-control" value="{{$review->user_info->name}}">
-      </div>
+
       <div class="form-group">
         <label for="review">Review</label>
       <textarea name="review" id="" cols="20" rows="10" class="form-control">{{$review->review}}</textarea>
