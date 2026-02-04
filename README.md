@@ -94,9 +94,9 @@ Many more....
 ![Classic Suit Detail](public/screenshots/product_classic_suit.png)
 ![Product Grid Full](public/screenshots/product_grid_full.jpg)
 ![Latest Items](public/screenshots/latest_items.png)
-![Product View 1](public/screenshots/aaaaaaaaaaaaaaaaaaCapture.PNG)
-![Product View 2](public/screenshots/aaaaaaaaaaaaaaaaaaaaCapture.PNG)
-![Product View 3](public/screenshots/aaaaaaaaaaaaaaaaaaaaaaaaaCapture.PNG)
+![Product View 1](public/screenshots/product_view_1.png)
+![Product View 2](public/screenshots/product_view_2.png)
+![Product View 3](public/screenshots/product_view_3.png)
 
 #### Blog Section
 ![Blog Section](public/screenshots/blog.png)
@@ -104,10 +104,10 @@ Many more....
 
 #### Contact Us
 ![Contact Page](public/screenshots/contact.png)
-![Support View](public/screenshots/Capzzzzzzzzzzzzzzzzzzture.PNG)
+![Support View](public/screenshots/support_view.png)
 
 #### User Dashboard / Admin
-![Admin Panel](public/screenshots/Cassssssssssssssssssssssspture.PNG)
+![Admin Panel](public/screenshots/admin_panel.png)
 
 #### Footer
 ![Footer Section](public/screenshots/footer.png)
