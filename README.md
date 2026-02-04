@@ -91,12 +91,16 @@ Many more....
 
 #### Shop & Products
 ![Product Details](public/screenshots/product_detail.png)
+![Classic Suit Detail](public/screenshots/product_classic_suit.png)
+![Product Grid Full](public/screenshots/product_grid_full.jpg)
+![Latest Items](public/screenshots/latest_items.png)
 ![Product View 1](public/screenshots/aaaaaaaaaaaaaaaaaaCapture.PNG)
 ![Product View 2](public/screenshots/aaaaaaaaaaaaaaaaaaaaCapture.PNG)
 ![Product View 3](public/screenshots/aaaaaaaaaaaaaaaaaaaaaaaaaCapture.PNG)
 
 #### Blog Section
 ![Blog Section](public/screenshots/blog.png)
+![Blog Sidebar](public/screenshots/blog_sidebar.png)
 
 #### Contact Us
 ![Contact Page](public/screenshots/contact.png)
