@@ -89,17 +89,24 @@ Many more....
 #### Home Page
 ![Home Page](public/screenshots/home.png)
 
-#### Product Detail
-![Product Detail](public/screenshots/product_detail.png)
+#### Shop & Products
+![Product Details](public/screenshots/product_detail.png)
+![Product View 1](public/screenshots/aaaaaaaaaaaaaaaaaaCapture.PNG)
+![Product View 2](public/screenshots/aaaaaaaaaaaaaaaaaaaaCapture.PNG)
+![Product View 3](public/screenshots/aaaaaaaaaaaaaaaaaaaaaaaaaCapture.PNG)
 
 #### Blog Section
 ![Blog Section](public/screenshots/blog.png)
 
 #### Contact Us
-![Contact Us](public/screenshots/contact.png)
+![Contact Page](public/screenshots/contact.png)
+![Support View](public/screenshots/Capzzzzzzzzzzzzzzzzzzture.PNG)
+
+#### User Dashboard / Admin
+![Admin Panel](public/screenshots/Cassssssssssssssssssssssspture.PNG)
 
 #### Footer
-![Footer](public/screenshots/footer.png)
+![Footer Section](public/screenshots/footer.png)
 
 ---
 
