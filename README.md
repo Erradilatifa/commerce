@@ -110,13 +110,4 @@ Many more....
 
 ---
 
-## Author Contact
-Contact me with any questions!<br>
-Email: Prajwal.iar@gmail.com
-Whatsapp: +977-9818441226
-
-## License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-Copyright © 2023 [Prajwal R.](https://raiprajwal.com/)
-
 <p style="text-align:center">Thank You so much for your time !!!</p>
